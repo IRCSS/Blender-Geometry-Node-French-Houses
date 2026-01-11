@@ -6,9 +6,13 @@ The nodes are well documented and cleaned up, with viewer nodes in betweens to b
 
 
 Here is an example of the baisic houses. You can define the foundation of the house in edit mode. Just make sure you dont apply your tranform if you wanto rotate, scale the house, do it on the object. I am assuming the house is somewhat centered around X axis.
+
+
 ![screenshot](documentation/Extude.gif)
 
 Here is an example of the towers. They are purely GN defined, so their controls is on the modifier. There are two type, the round one and the square one. 
+
+
 ![screenshot](documentation/Towers.gif)
 
 --------------------------
