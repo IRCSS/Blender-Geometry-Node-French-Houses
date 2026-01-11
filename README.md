@@ -5,9 +5,11 @@ This repo contains nodes for a procedural mesh generation of french style archit
 The nodes are well documented and cleaned up, with viewer nodes in betweens to be able to follow whats happening. At a later date I will release a blog post explaining some of the tricks more in depth.
 
 
-
+Here is an example of the baisic houses. You can define the foundation of the house in edit mode. Just make sure you dont apply your tranform if you wanto rotate, scale the house, do it on the object. I am assuming the house is somewhat centered around X axis.
 ![screenshot](documentation/Extude.gif)
 
+Here is an example of the towers. They are purely GN defined, so their controls is on the modifier. There are two type, the round one and the square one. 
+![screenshot](documentation/Towers.gif)
 
 --------------------------
 
