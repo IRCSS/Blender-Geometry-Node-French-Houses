@@ -15,6 +15,10 @@ Here is an example of the towers. They are purely GN defined, so their controls 
 
 ![screenshot](documentation/Towers.gif)
 
+You can also generate rails, terraces and stairs. You have to kind of mix and match those nodes based on your needs.
+![screenshot](documentation/Stairs.gif)
+
+
 --------------------------
 
 Roadmap:
