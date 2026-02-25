@@ -1,6 +1,9 @@
-Procedural French Style Architecture in Geometry nodes Blender 5.0
+Procedural Northern European French Town in Geometry nodes Blender 5.0
 =================
-This repo contains nodes for a procedural mesh generation of french style architecture. It was written and tested on Blender 5.0. The test machine has a 5090 graphic card, alot of ram and a powerful CPU, so the performance on lower end PCs could be very different compared to the videos.
+
+![screenshot](https://i.imgur.com/DSw0UYt.jpeg)
+
+This repo contains nodes for my all geometry nodes project of making the assets for a northern eurpean style town. In it I have houses, towers, bridges, town walls, gates, cliffs, bushes, trees, stalls, terraces etc. It was written and tested on Blender 5.0. The test machine has a 5090 graphic card, alot of ram and a powerful CPU, so the performance on lower end PCs could be very different compared to the videos.
 
 The nodes are well documented and cleaned up, with viewer nodes in betweens to be able to follow whats happening. At a later date I will release a blog post explaining some of the tricks more in depth.
 
@@ -19,7 +22,8 @@ You can also generate rails, terraces and stairs. You have to kind of mix and ma
 ![screenshot](documentation/Stairs.gif)
 
 
+
 --------------------------
 
 Roadmap:
-Add two different type of towers, bridges, roads and ground.
+Add flags, church, round tower.
