@@ -1,7 +1,7 @@
 Procedural Northern European French Town in Geometry nodes Blender 5.0
 =================
 
-![screenshot](https://i.imgur.com/DSw0UYt.jpeg)
+![screenshot](https://i.imgur.com/MOcL5p8.gif)
 
 This repo contains nodes for my all geometry nodes project of making the assets for a northern eurpean style town. In it I have houses, towers, bridges, town walls, gates, cliffs, bushes, trees, stalls, terraces etc. It was written and tested on Blender 5.0. The test machine has a 5090 graphic card, alot of ram and a powerful CPU, so the performance on lower end PCs could be very different compared to the videos.
 
